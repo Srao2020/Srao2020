@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Srao2020
-- 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: contact@surfsyde.com
